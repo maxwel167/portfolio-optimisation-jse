@@ -15,7 +15,7 @@ A quantitative finance project analyzing 6 JSE-listed stocks using Modern Portfo
 
 ## 📁 Files
 - `portfolio_optimisation_jse.ipynb` - Main analysis notebook
-- Images/ - Generated visualizations
+- `images/` - Generated visualizations
 
 ## 🚀 How to Run
 1. Clone repository: `git clone https://github.com/maxwel167/portfolio-optimisation-jse.git`
@@ -25,17 +25,17 @@ A quantitative finance project analyzing 6 JSE-listed stocks using Modern Portfo
 ## 📈 Visualizations
 
 ### 1. Normalized Price Trends
-![Normalized Price Trends](images/plot 1.png)
+![Normalized Price Trends](images/price_trends.png)
 *Price movements of all 6 JSE stocks normalized to start at 1 (2019-2024)*
 
 ### 2. Returns Distribution Analysis
-![Returns Distribution](images/plot 2.png)
+![Returns Distribution](images/returns_distribution.png)
 *Histograms of daily returns for each stock with normal distribution overlay*
 
 ### 3. Correlation Heatmap
-![Correlation Matrix](images/plot 3.png)
+![Correlation Matrix](images/correlation_matrix.png)
 *Heatmap showing correlation coefficients between different JSE stocks*
 
 ### 4. Portfolio Risk Measures
-![Risk Measures](images/plot 4.png)
+![Risk Measures](images/risk_measures.png)
 *Distribution of optimal portfolio returns with Value-at-Risk (VaR) and Conditional VaR (CVaR) indicators*
