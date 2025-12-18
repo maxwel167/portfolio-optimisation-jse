@@ -38,4 +38,5 @@ A quantitative finance project analyzing 6 JSE-listed stocks using Modern Portfo
 
 ### 4. Portfolio Risk Measures
 ![Risk Measures](images/risk_measures.png)
+
 *Distribution of optimal portfolio returns with Value-at-Risk (VaR) and Conditional VaR (CVaR) indicators*
