@@ -37,6 +37,6 @@ A quantitative finance project analyzing 6 JSE-listed stocks using Modern Portfo
 *Heatmap showing correlation coefficients between different JSE stocks*
 
 ### 4. Portfolio Risk Measures
-![Risk Measures](images/risk_measures.png)
+![Risk Measures](images/monte_carlo.png)
 
 *Distribution of optimal portfolio returns with Value-at-Risk (VaR) and Conditional VaR (CVaR) indicators*
